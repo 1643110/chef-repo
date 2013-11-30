@@ -1,4 +1,6 @@
 /cookbooks/
-nodes/*
+nodes/*.json
 *~
 .swp
+
+!nodes/sample_node1.json
